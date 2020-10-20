@@ -4,13 +4,33 @@ entries:
 - title: sidebar
   folders:
 
-  - title: Java
-    output: web
+  - title: Home
+    output: web, pdf
     folderitems:
+    - title: Welcome
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
+    - title: About Me
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Social Media
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Blog
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Support
+      url: /https://soatok.com/freelance
+      output: web, pdf
+  - title: Java
+    url: /tag_troubleshooting.html
+    output: web
+
 
   - title: Tag archives
     output: web
