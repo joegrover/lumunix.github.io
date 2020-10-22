@@ -41,6 +41,10 @@
     </script>
     <script>
         $(document).ready(function() {
+          //toggle bar off default
+          $("#tg-sb-sidebar").toggle();
+          $("#tg-sb-content").toggleClass('col-md-9');
+          $("#tg-sb-content").toggleClass('col-md-12');
             $("#tg-sb-link").click(function() {
                 $("#tg-sb-sidebar").toggle();
                 $("#tg-sb-content").toggleClass('col-md-9');
