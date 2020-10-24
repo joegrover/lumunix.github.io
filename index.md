@@ -2,7 +2,7 @@
 title: "Welcome!"
 keywords: homepage
 tags: [getting_started]
-sidebar: none
+hide_sidebar: true
 permalink: index.html
 toc: false
 ---
