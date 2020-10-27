@@ -6,11 +6,6 @@ hide_sidebar: true
 permalink: index.html
 toc: false
 ---
-
-
-
-
-
 <!-- Social Media List -->
 <div class="row">
     <div class="col-lg-12">
@@ -24,19 +19,18 @@ toc: false
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service One</h4>
+                <h4 class="media-heading">Instagram</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                      <img src="images/social/discord.png">
-
+                  <img src="images/social/discord.png">
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Two</h4>
+                <a class="media-heading" href="https://www.rapidtables.com/web/html/link/html-image-link.html">Discord</a>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
@@ -47,7 +41,7 @@ toc: false
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Three</h4>
+                <h4 class="media-heading">Twitch</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
@@ -60,7 +54,7 @@ toc: false
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Four</h4>
+                <h4 class="media-heading">Twitter</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
@@ -71,18 +65,18 @@ toc: false
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Five</h4>
+                <h4 class="media-heading">Youtube</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <img src="images/social/telegram.png">
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Six</h4>
+                <h4 class="media-heading">Telegram Stickers</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
