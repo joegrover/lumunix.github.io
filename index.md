@@ -1,7 +1,7 @@
 ---
 title: "Welcome!"
 keywords: homepage
-tags: [getting_started]
+tags: []
 hide_sidebar: true
 permalink: index.html
 toc: false
@@ -21,8 +21,8 @@ toc: false
                 </div>
                 <div class="panel-body">
                     <h4>Discord</h4>
-                    <p>Join my discord where I post announcements, have places to chat and meet others</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p>Join my discord where I post announcements, have places to chat and meet others.</p>
+                    <a href="https://discord.gg/S44eGxVNzT" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@ toc: false
                 <div class="panel-body">
                     <h4>Twitch</h4>
                     <p>Check out my twitch channel where I stream game playthroughs or coding sessions.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="https://www.twitch.tv/lumunix" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -44,13 +44,13 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <img src="images/social/youtube.png">
+                      <img src="images/social/telegram.png">
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service Four</h4>
-                      <p>Check out my twitch channel where I stream game playthroughs or coding sessions.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <h4>Telegram Stickers</h4>
+                      <p>Looking for my telegram sticker pack?.</p>
+                    <a href="https://t.me/addstickers/Lumunix" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@ toc: false
                 <div class="panel-body">
                     <h4>Instagram</h4>
                     <p>Follow my Instagram for my latest fursuit photos and pictures of adventures.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="https://www.instagram.com/lum_unix/?hl=en" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -72,13 +72,13 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                        <img src="images/social/discord.png">
+                        <img src="images/social/youtube.png">
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Discord</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <h4>Youtube</h4>
+                    <p>I don't post too often, but I like to make random videos from time to time.</p>
+                    <a href="https://www.youtube.com/channel/UClirzTkXbUFGsfP8aiUqOGg" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -86,13 +86,13 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <img src="images/social/twitch.png">
+                          <img src="images/social/twitter.png">
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Twitch</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <h4>Twitter</h4>
+                    <p>Check out my twitter where I post my various thoughts and musings. I joke and like to share my experiences and current projects.</p>
+                    <a href="https://twitter.com/Lumunix" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
@@ -100,139 +100,14 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <img src="images/social/youtube.png">
+                          <img src="images/social/github.png">
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service Four</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                          <img src="images/social/youtube.png">
-                    </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Service Four</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <h4>Github</h4>
+                    <p>Well You are here, this site is hosted on github servers. here is where I host my blog and where you can find all my code projects.</p>
+                    <a href="https://lumunix.github.io/" class="btn btn-primary">Go</a>
                 </div>
             </div>
         </div>
     </div>
-<!-- Social Media List -->
-<div class="row">
-    <div class="col-lg-12">
-        <h2 class="page-header">STOP</h2>
-    </div>
-    <div class="col-md-4">
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <img src="images/social/instagram.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Instagram</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                  <img src="images/social/discord.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <a class="media-heading" href="https://www.rapidtables.com/web/html/link/html-image-link.html">Discord</a>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <img src="images/social/twitch.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Twitch</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <img src="images/social/twitter.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Twitter</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <img src="images/social/youtube.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Youtube</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <img src="images/social/telegram.png">
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Telegram Stickers</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Seven</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Eight</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Nine</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-    </div>
-</div>
