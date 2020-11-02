@@ -1,17 +1,17 @@
 ---
-title: "Welcome!"
+title: Hello!
 keywords: homepage
-tags: []
 hide_sidebar: true
 permalink: index.html
 toc: false
 ---
-
+<p>
+I'm Lumunix, the WiFi enabled fennec. I am a total nerd when it comes to technology and computing. I love to play video games, talk about consumer and commercial computing hardware, cars and electronics.
+</p>
 <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Social Media</h2>
         </div>
-
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
