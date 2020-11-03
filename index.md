@@ -5,9 +5,17 @@ hide_sidebar: true
 permalink: index.html
 toc: false
 ---
-<p>
-I'm Lumunix, the WiFi enabled fennec. I am a total nerd when it comes to technology and computing. I love to play video games, talk about consumer and commercial computing hardware, cars and electronics.
-</p>
+
+<div class="row">
+		 <div class="column">
+			<img src="images/hi.png">
+		</div>
+  <div class="column">
+		 <p>
+	     I'm Lumunix, the WiFi enabled fennec. I am a total nerd when it comes to technology and computing. I love to play video games, talk about consumer and commercial computing hardware, cars and electronics.
+     </p>
+		</div>
+</div>
 <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Social Media</h2>

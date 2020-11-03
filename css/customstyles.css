@@ -1,7 +1,6 @@
 body {
     font-size:15px;
 }
-
 .bs-callout {
     padding: 20px;
     margin: 20px 0;
@@ -1197,4 +1196,13 @@ h4.panel-title {
     .collapse.in{
         display:block !important;
     }
+}
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
