@@ -1,0 +1,51 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: VRM Tutorial
+  product: VrmTutorial
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /vrmtutorial_landing_page.html
+      output: web
+
+  - title: Creating VRM Model
+    output: web, pdf
+    folderitems:
+
+    - title: Sample 1
+      url: /vrmtutorial_1.html
+      output: web, pdf
+
+    - title: Sample 2
+      url: /vrmtutorial_2.html
+      output: web, pdf
+
+    - title: Sample 3
+      url: /vrmtutorial_3.html
+      output: web, pdf
+
+    - title: Sample 4
+      url: /vrmtutorial_4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /vrmtutorial_5.html
+      output: web, pdf
