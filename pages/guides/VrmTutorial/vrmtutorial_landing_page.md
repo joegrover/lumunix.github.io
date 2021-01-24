@@ -1,7 +1,10 @@
 ---
-title: New Sample Post, SCREEEE
-permalink: 20201022new-sample-post-screeee.html
-hide_sidebar: true
+title: How to Create an Vrm Model With Unity for Use in Facetracking Apps
+keywords: vrm, model, unity, streaming
+summary: "This is just a sample topic..."
+sidebar: vrmtutorial_sidebar
+permalink: vrmtutorial_landing_page.html
+folder: VrmTutorial
 ---
 
 ![3tene Avatar](images/guides/VrmTutorial/3tene.png){:class="img-responsive"}
