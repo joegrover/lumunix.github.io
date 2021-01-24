@@ -1,6 +1,6 @@
-source "https://rubygems.org"
-
-# to publish on github pages
-gem 'github-pages', group: :jekyll_plugins
-# to publich without github page
-#gem "jekyll"
+source 'https://rubygems.org'
+gem "bundler"
+gem "jekyll"
+gem "jekyll-paginate"
+gem 'jekyll-tagging'
+gem "jekyll-sitemap"
