@@ -42,6 +42,7 @@ social:
 - {icon: "logo-youtube", link: "https://www.youtube.com/channel/UClirzTkXbUFGsfP8aiUqOGg"}
 - {icon: "logo-github", link: "https://lumunix.github.io/"}
 - {icon: "logo-discord", link: "https://discord.gg/S44eGxVNzT"}
+- {icon: "logo-twitch", link: "https://www.twitch.tv/lumunix"}
 
 #-------------------------------
 # Comment Section (Disqus)
