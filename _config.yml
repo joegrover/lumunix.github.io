@@ -5,8 +5,14 @@ logo: '/images/hi.png' # You can add own logo. For example '/images/logo.png'.
 description: Lumunix Blog
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://lumunix.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
-
-
+staticman_url: https://lumunix.herokuapp.com/v2/entry/lumunix/lumunix.github.io/master/comments
+comments: true
+#-------------------------------
+# reCaptcha Settings
+reCaptcha:
+  siteKey: 6LeLYEYaAAAAAFGdotkfMHnCB3iA1hFY1dJmcoSy
+  secret: 6LeLYEYaAAAAAMjd-8faALndFEBPkCfb23g02fGg
+#-------------------------------
 #-------------------------------
 # Author Settings
 author:
@@ -35,7 +41,7 @@ contact:
 #-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
-# Other icons can be found at https://ionicons.com/v4/
+# Other icons can be found at https://ionicons.com/v5/
 social:
 - {icon: "logo-twitter", link: "https://twitter.com/Lumunix"}
 - {icon: "logo-instagram", link: "https://www.instagram.com/lum_unix/?hl=en"}
@@ -61,6 +67,9 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 
 
 #-------------------------------
+
+
+
 # Build settings
 markdown: kramdown
 permalink: pretty
