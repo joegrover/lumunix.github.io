@@ -39,7 +39,7 @@ comments:
   reCaptcha:
     enabled: true
     siteKey: 6LeLYEYaAAAAAFGdotkfMHnCB3iA1hFY1dJmcoSy
-    secret: 6LeLYEYaAAAAAMjd-8faALndFEBPkCfb23g02fGg
+    secret: S96GDEs0RQp3RkOeiVNKDgaNoWL4psJjWisMFWPOl3sPvUjyCidytoyxYUVE+ZSFkj8TVkd6Z6lR+muxjiCO1+EPBcORLCV1mm9ds83otdlSifsDJH1lb5A1000ttgNtceLoi4evYWg+JwyuqcJUfaxzsc554UCkmHD/ePKIH0o=
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
