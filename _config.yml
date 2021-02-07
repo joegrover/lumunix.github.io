@@ -5,7 +5,7 @@ logo: '/images/hi.png' # You can add own logo. For example '/images/logo.png'.
 description: Lumunix Blog
 baseurl:
 url: "https://lumunix.github.io" # The base hostname & protocol for your site, e.g. http://example.com
-staticman_url: https://lumunix.herokuapp.com/v2/entry/Lumunix/lumunix.github.io/master/comments
+staticman_url: https://lumunix.herokuapp.com/v3/entry/github/lumunix/lumunix.github.io/master/comments
 comments: true
 #-------------------------------
 # reCaptcha Settings
