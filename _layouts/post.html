@@ -139,5 +139,9 @@ layout: default
       <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
       <small>Comments will appear after moderation.</small>
       <button type="submit">Submit comment</button>
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="YOUR-SITE-KEY">
+      <input type="hidden" name="options[reCaptcha][secret]" value="YOUR-ENCRYPTED-SECRET">
+      <div class="g-recaptcha" data-sitekey="site.reCaptcha.siteKey"></div>
+      <script src='https://www.google.com/recaptcha/api.js'></script>
   </form>
   {% endif %}
