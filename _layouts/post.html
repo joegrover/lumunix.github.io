@@ -103,6 +103,7 @@ layout: default
 {% include related-posts.html %}
 
 {% if site.comments %} <!-- Comments -->
+<div class="container">
 {% if site.data.comments[page.slug] %}
     <h3>
     {% if site.data.comments[page.slug].size > 1 %}
@@ -125,6 +126,7 @@ layout: default
       <p>{{ comment[1].message | markdownify }}</p>
     {% endfor %}
 {% endif %}
+</div>
 <!-- Comments Form -->
   <form method="POST" action="{{ site.staticman_url }}">
     <input name="options[redirect]" type="hidden" value="https://example.com">
