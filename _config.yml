@@ -23,7 +23,7 @@ name                     : "Lumunix"
 description              : ""
 url                      : "https://lumunix.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Lumunix/lumunix.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "lumunix/lumunix.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -45,7 +45,7 @@ comments:
     issue_term           : # "pathname" (default)
   staticman:
     branch               : "master" # "master"
-    endpoint             : "https://api.staticman.net/v3/entry/github/Lumunix/lumunix.github.io/" # "https://{your Staticman v3 API}/v3/entry/github/"
+    endpoint             : "https://api.staticman.net/v3/entry/github/" # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                : 6LeLYEYaAAAAAFGdotkfMHnCB3iA1hFY1dJmcoSy
   secret                 : KMFMK/JphRpu1sXpWls+8HlOsAHT/YV+U4qylPp+mkz4St1WStQGj2ccaJunnpcv3yXAfTh/utP4P9Wa+HuV7xqzkh5BWbYMeZjx9FNC5iVYSsq9QME3/cZnWL3TEDFkYpjBLC2VDmz81cepo3zSdMrGhSgmql6IYoQzgkFa17M=
