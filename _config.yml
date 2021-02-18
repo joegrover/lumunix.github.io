@@ -46,7 +46,6 @@ comments:
   staticman:
     allowedFields          :  ['name', 'email', 'url', 'message']
     branch                 : "master" # "master"
-    allowedFields          :  ['name', 'email', 'url', 'message']
     commitMessage          :  "New comment by {fields.name}"
     filename               :  comment-{@timestamp}
     format                 :  "yml"
