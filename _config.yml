@@ -44,8 +44,23 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : "master" # "master"
-    endpoint             : "https://api.staticman.net/v3/entry/github/" # "https://{your Staticman v3 API}/v3/entry/github/"
+    allowedFields          :  ['name', 'email', 'url', 'message']
+    branch                 : "master" # "master"
+    allowedFields          :  ['name', 'email', 'url', 'message']
+    commitMessage          :  "New comment by {fields.name}"
+    filename               :  comment-{@timestamp}
+    format                 :  "yml"
+    moderation             :  true
+    path                   :  "/_data/comments/{options.slug}" #(default)
+    requiredFields         :  ['name', 'email', 'message']
+    transforms:
+      email                :  "md5"
+    generatedFields:
+      date:
+        type               :  "date"
+        options:
+          format           :  "iso8601" #(default), "timestamp-seconds", "timestamp-milliseconds"
+    endpoint               : "https://api.staticman.net/v3/entry/github/" # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                : 6LeLYEYaAAAAAFGdotkfMHnCB3iA1hFY1dJmcoSy
   secret                 : KMFMK/JphRpu1sXpWls+8HlOsAHT/YV+U4qylPp+mkz4St1WStQGj2ccaJunnpcv3yXAfTh/utP4P9Wa+HuV7xqzkh5BWbYMeZjx9FNC5iVYSsq9QME3/cZnWL3TEDFkYpjBLC2VDmz81cepo3zSdMrGhSgmql6IYoQzgkFa17M=
