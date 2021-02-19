@@ -1,0 +1,46 @@
+/* ==========================================================================
+   Sunrise skin
+   ========================================================================== */
+
+/* Colors */
+$dark-gray: #0e2431 !default;
+$background-color: #fff296 !default;
+$text-color: #000 !default;
+$muted-text-color: $dark-gray !default;
+$primary-color: #07ffff !default;
+$border-color: mix(#000, $background-color, 20%) !default;
+$code-background-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color-dark: mix(#000, $background-color, 10%) !default;
+$form-background-color: mix(#fff, $background-color, 15%) !default;
+$footer-background-color: #f9b248 !default;
+$link-color: mix(#000, $primary-color, 10%) !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+/* Eighties syntax highlighting (base16) */
+$base00: #2d2d2d !default;
+$base01: #393939 !default;
+$base02: #515151 !default;
+$base03: #747369 !default;
+$base04: #a09f93 !default;
+$base05: #d3d0c8 !default;
+$base06: #e8e6df !default;
+$base07: #f2f0ec !default;
+$base08: #f2777a !default;
+$base09: #f99157 !default;
+$base0a: #ffcc66 !default;
+$base0b: #99cc99 !default;
+$base0c: #66cccc !default;
+$base0d: #6699cc !default;
+$base0e: #cc99cc !default;
+$base0f: #d27b53 !default;
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
