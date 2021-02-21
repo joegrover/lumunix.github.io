@@ -1,6 +1,7 @@
 ---
 title: "Post: Notice"
-teaser: "/assets/images/cables.png"
+header:
+  teaser: "/assets/images/cables.png"
 categories:
   - Blog
 tags:
