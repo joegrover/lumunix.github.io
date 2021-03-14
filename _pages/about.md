@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cables.png" alt="">
 
 Hello, I'm Lumunix
 
