@@ -3,7 +3,6 @@ title: "Spring Profiles with Spring Security"
 date: "2021-03-20"
 comments: true
 teaser: "/assets/images/cables.png"
-classes: wide
 categories:
   - Java
 tags:
