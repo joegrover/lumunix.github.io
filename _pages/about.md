@@ -23,7 +23,10 @@ Oh, I guess I should also address the elephant in the room, I'm also a furry.
 
 ## About the site
 
-So this site is built using Jekyll,
+Lets start with the technical, this site is built using the static site generator [Jekyll](https://jekyllrb.com/) and is hosted using [Github Pages](https://pages.github.com/). Handling the dynamic site functionality of the site is the popular [Staticman](https://staticman.net/). 
+
+
+
 
 https://jekyllrb.com/
 
