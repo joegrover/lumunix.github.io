@@ -2,7 +2,7 @@ version: '3'
 services:
   site:
     environment:
-      JEKYLL_ENV: production
+      JEKYLL_ENV: development
     image: jekyll/jekyll
     volumes:
       - .:/srv/jekyll
@@ -11,4 +11,6 @@ services:
     command: >
       jekyll serve \
         --watch \
-        --force_polling
+        --force_polling \
+        --host 0.0.0.0 \
+        --port 4000 \
